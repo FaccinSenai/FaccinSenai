@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Faccin.27&color=006bed)
+![](https://komarev.com/ghpvc/?username=Faccin27&color=006bed)
 
 ## Sobre mim
 

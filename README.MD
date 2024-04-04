@@ -1,36 +1,44 @@
-### Hello! I am Guilherme Faccin 👋
+![](https://komarev.com/ghpvc/?username=Faccin.27&color=006bed)
 
-🔭 I’m currently working on discord rat <br>
-🌱 I’m currently learning database's
+## Sobre mim
 
-<div>
-  <a href="https://github.com/FaccinSenai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaccinSenai&show_icons=true&theme=merko&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaccinSenai&layout=compact&langs_count=16&theme=merko"/>
-</div>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Informatica para redes no Senai.
+- 💼 Procurando oportunidades de trabalho como junior dev.
+- 🌱 Aprendendo mais sobre JavaScript.
 
-## EDUCATION
-<div>
-🌎 Tecnico em Informática para Internet (Senai), Luzerna - SC, Brazil;<br>
-👨‍💻 Tecnico em Automação Industrial: Sistemas de Controle e Robótica (SENAI), Luzerna - SC, Brazil;<br>
-⚡ Loading... (SENAI), Luzerna - SC, Brazil;
-</div>
+## Minhas Skills
 
-## MY INTERESTS
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="C#" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="RaspBerryPi" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-  <img align="center" alt="Arduino" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-</div>
+**Aplicações e dados**
 
-## CONTACTC
-<div>
-<a href="https://www.instagram.com/gui.faccin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/guilherme_faccin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto: guilherme_faccin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!<a href="https://api.whatsapp.com/send?phone=5549999215720" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>>
-<a href="https://www.youtube.com/channel/Faccin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</div>
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/Faccin27" title="Perfil de Faccin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faccin27&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Gui.faccin)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfaccin27@gmail.com)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/Faccin27?label=follow&style=social)](LINK-DO-SEU-GITHUB)

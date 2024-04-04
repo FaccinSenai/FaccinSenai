@@ -33,12 +33,12 @@
 
 <br/>
 
-<a href="https://github.com/Faccin27" title="Perfil de Faccin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faccin27&theme=dracula&show_icons=true" />
+<a href="https://github.com/FaccinSenai" title="Perfil de Faccin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaccinSenai&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Gui.faccin)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfaccin27@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/Faccin27?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/FaccinSenai?label=follow&style=social)](LINK-DO-SEU-GITHUB)
